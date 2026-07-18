@@ -1,10 +1,4 @@
-# 👋 Olá, eu sou Felipe Rodrigues Siqueira     --- English version beggins at line 125
-
-💻 **Desenvolvedor | Java | JavaScript | Python | Estudante de Engenharia de Software**
-
-📍 Marília - SP  
-📧 [felipe.rodrigues.siqueira20@gmail.com](felipe.rodrigues.siqueira20@gmail.com)  
-🔗 [LinkedIn](https://linkedin.com/in/felipe-rodrigues-siqueira-00694a369?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) | [GitHub](https://github.com/Fesiqueira) 
+English version beggins at line 125
 
 ---
 
