@@ -1,6 +1,6 @@
-# 👋 Olá, eu sou Felipe Rodrigues Siqueira
+# 👋 Olá, eu sou Felipe Rodrigues Siqueira     --- English version beggins at line 125
 
-💻 **Desenvolvedor Web | Javascript | Python | Estudante de Engenharia Elétrica**
+💻 **Desenvolvedor | Java | JavaScript | Python | Estudante de Engenharia de Software**
 
 📍 Marília - SP  
 📧 [felipe.rodrigues.siqueira20@gmail.com](felipe.rodrigues.siqueira20@gmail.com)  
@@ -8,109 +8,237 @@
 
 ---
 
-## 🌎 Sobre mim
+# 👋 Olá, eu sou Felipe Rodrigues Siqueira
 
-Comecei minha jornada na **Engenharia Elétrica**, e foi através da **robótica** que descobri algo que mudou completamente meu caminho: a **programação**.  
-A curiosidade que antes me fazia desmontar circuitos agora me leva a construir sistemas, sites e ideias.
+### Software Developer | Java • Spring • TypeScript • React • Python
 
-Sou capacitado em **Desenvolvimento Web**, com foco em **Javascript** e **Python**, e possuo **inglês fluente**, o que me permite acompanhar documentações, comunidades e tecnologias internacionais com facilidade.
+📍 Marília - SP, Brasil  
+📧 felipe.rodrigues.siqueira20@gmail.com
 
-Tenho como meta unir o conhecimento técnico da engenharia com o poder da programação — criando soluções inteligentes, automações e experiências digitais que realmente façam sentido.
-
----
-
-## 🧠 Habilidades Técnicas
-
-- **Frontend:** HTML, CSS, JavaScript, React  
-- **Backend:** Node.js, Python, Flask  
-- **Banco de Dados:** MySQL, SQLite  
-- **Ferramentas:** Git, GitHub, VS Code  
-- **Outros:** Lógica de programação, APIs REST, automações, versionamento de código
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/felipe-rodrigues-siqueira-00694a369)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/Fesqueira)
 
 ---
 
-## 🎓 Formação
+# 💻 Sobre mim
 
-🎓 **Engenharia Elétrica — UNIMAR** *(em andamento)*  
-💡 **Capacitação em Web Development — DIO**  
-🐍 **Formação em Python — DIO**  
+Minha jornada como desenvolvedor começou em **2017**, quando iniciei a graduação em **Análise e Desenvolvimento de Sistemas**.
 
----
+Desde então, a programação deixou de ser apenas uma disciplina da faculdade e se tornou minha principal área de interesse. Ao longo desses anos explorei diferentes linguagens, desenvolvi projetos pessoais, participei de iniciativas voluntárias e construí uma base sólida em desenvolvimento de software.
 
-## 🚀 Projetos em Destaque
+Hoje concentro meus estudos principalmente no ecossistema **Java**, buscando aprofundar conhecimentos em desenvolvimento backend, arquitetura de software, APIs REST, bancos de dados e boas práticas de engenharia de software.
 
-- **[Controle de tarefas (To-do List JS)](https://github.com/Fesqueira/to-do-list)**  
-  Uma aplicação simples e intuitiva feita com HTML, CSS e JavaScript.
+Também possuo experiência com desenvolvimento web utilizando **TypeScript**, **React**, **Python** e outras tecnologias modernas, sempre buscando escrever código limpo, organizado e escalável.
 
-- **[Simulador de Automação de Iluminação com Python](https://github.com/Fesqueira/ilumina-o_automatizada)**
-  Projeto que une engenharia e software para controle de sistehttps://github.com/Fesqueira/ilumina-o_automatizadamas elétricos via código.
+Tenho inglês fluente, o que me permite consumir documentação técnica, cursos, livros e acompanhar comunidades internacionais diariamente.
+
+Meu objetivo é construir uma carreira sólida como engenheiro de software, contribuindo para produtos que gerem impacto real.
 
 ---
 
-## 💬 O que me motiva
+# 🚀 Tecnologias
 
-Mais do que escrever código, gosto de **entender problemas** e criar soluções que facilitem a vida das pessoas.  
-Acredito que cada linha de código é uma oportunidade de conectar ideias e transformar o mundo em algo mais eficiente e acessível.
+### Backend
+
+- Java
+- Spring Boot
+- Python
+- Node.js
+
+### Frontend
+
+- React
+- TypeScript
+- JavaScript
+- HTML5
+- CSS3
+
+### Banco de Dados
+
+- PostgreSQL
+- MySQL
+- SQLite
+
+### Ferramentas
+
+- Git
+- GitHub
+- Docker
+- Maven
+- IntelliJ IDEA
+- VS Code
+
+### Estudando atualmente
+
+- Spring Security
+- JPA / Hibernate
+- Microsserviços
+- Docker
+- Clean Architecture
+- Design Patterns
+- Testes Automatizados
 
 ---
 
-## 🌐 Versão em Inglês
+# 🎓 Formação
+
+🎓 Análise e Desenvolvimento de Sistemas (2017 - 2020)
+
+🎓 Engenharia de Software (2026 - 2030)
+
+📚 Formação contínua através de documentação oficial, projetos pessoais, cursos e contribuições open source.
+
+---
+
+# 🚀 Alguns projetos
+
+### 📦 Almoxarifado Digital
+
+Sistema desktop desenvolvido em Java com foco em controle de estoque, arquitetura em camadas e persistência de dados.
+
+---
+
+### 🌐 Projetos Web
+
+Diversas aplicações desenvolvidas utilizando React, JavaScript, TypeScript e Python para aprendizado e resolução de problemas reais.
+
+---
+
+# 📈 Atualmente
+
+- 📚 Aprofundando Java e Spring
+- 🧩 Resolvendo problemas no LeetCode
+- 🌱 Contribuindo para projetos Open Source
+- 🚀 Construindo projetos para portfólio
+
+---
+
+# 💬 Filosofia
+
+Acredito que software é muito mais do que código.
+
+Gosto de entender como as coisas funcionam, aprender continuamente e desenvolver soluções que sejam simples, escaláveis e úteis para as pessoas.
+
+Cada projeto representa uma oportunidade de evoluir como desenvolvedor e construir algo melhor do que no dia anterior.
+
 
 # 👋 Hi, I'm Felipe Rodrigues Siqueira
 
-💻 **Web Developer | JavaScript | Python | Electrical Engineering Student**
+### Software Developer | Java • Spring • TypeScript • React • Python
 
-📍 Marília - Brazil  
-📧 [felipe.rodrigues.siqueira20@gmail.com](felipe.rodrigues.siqueira20@gmail.com)   
-🔗 [LinkedIn](https://linkedin.com/in/felipe-rodrigues-siqueira-00694a369?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) | [GitHub](https://github.com/Fesiqueira) 
+📍 Marília, Brazil
 
+📧 felipe.rodrigues.siqueira20@gmail.com
 
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/felipe-rodrigues-siqueira-00694a369)
 
-## 🌎 About Me
-
-My journey started in **Electrical Engineering**, but through **robotics**, I discovered something that completely changed my perspective — **programming**.  
-What began as curiosity about circuits turned into a genuine passion for building digital systems and creative solutions.
-
-I’m skilled in **Web Development**, working mainly with **JavaScript** and **Python**, and I’m **fluent in English**, which helps me keep up with the latest trends, documentation, and global tech communities.
-
-My goal is to combine the precision of engineering with the creativity of programming — developing tools, automations, and experiences that make technology truly useful.
+[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/Fesqueira)
 
 ---
 
-## 🧠 Technical Skills
+# 💻 About Me
 
-- **Frontend:** HTML, CSS, JavaScript, React  
-- **Backend:** Node.js, Python, Flask  
-- **Databases:** MySQL, SQLite  
-- **Tools:** Git, GitHub, VS Code  
-- **Other:** Logic, REST APIs, automation, code versioning
+My software development journey began in **2017**, when I started my degree in **Systems Analysis and Development**.
 
----
+Since then, programming has grown from an academic subject into my professional passion. Over the years I've explored multiple programming languages, built personal projects, contributed to volunteer initiatives, and continuously improved my software engineering skills.
 
-## 🎓 Education
+Today my primary focus is the **Java ecosystem**, where I'm specializing in backend development, software architecture, REST APIs, databases, and engineering best practices.
 
-🎓 **Electrical Engineering — UNIMAR** *(ongoing)*  
-💡 **Web Development Training — DIO**  
-🐍 **Python Developer Program — DIO**  
+I also have experience developing web applications with **TypeScript**, **React**, **Python**, and modern web technologies.
+
+Being fluent in English allows me to learn directly from official documentation, books, conferences, and international developer communities.
+
+My goal is to become a highly skilled Software Engineer capable of building scalable products that create real value.
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Tech Stack
 
-- **[To-do List App (JS)](https://github.com/Fesqueira/to-do-list)**  
-  A clean and practical task management web app built with HTML, CSS, and JavaScript.
+### Backend
 
-- **[Lighting Automation Simulation with Python](https://github.com/Fesqueira/ilumina-o_automatizada)**  
-  A project that bridges electrical systems and software through automation.
+- Java
+- Spring Boot
+- Python
+- Node.js
+
+### Frontend
+
+- React
+- TypeScript
+- JavaScript
+- HTML5
+- CSS3
+
+### Databases
+
+- PostgreSQL
+- MySQL
+- SQLite
+
+### Tools
+
+- Git
+- GitHub
+- Docker
+- Maven
+- IntelliJ IDEA
+- VS Code
+
+### Currently Learning
+
+- Spring Security
+- JPA / Hibernate
+- Microservices
+- Docker
+- Clean Architecture
+- Design Patterns
+- Automated Testing
 
 ---
 
-## 💬 What Drives Me
+# 🎓 Education
 
-For me, programming is not only about writing code — it’s about **understanding problems** and **creating smart, human-centered solutions**.  
-Each project is a chance to bring engineering logic to life through technology.
+🎓 Systems Analysis and Development (2017 - 2020)
+
+🎓 Software Engineering (2026 - 2030)
+
+📚 Continuous learning through official documentation, personal projects, online courses, and open-source contributions.
 
 ---
 
-> “Programming gave me the same thrill I once felt in engineering — the joy of creating something that works.”
+# 🚀 Featured Projects
+
+### 📦 Digital Inventory System
+
+A Java desktop application focused on inventory management using layered architecture and database persistence.
+
+---
+
+### 💳 Non-profit Payment Platform
+
+Volunteer work implementing a payment feature using TypeScript for a non-profit organization.
+
+---
+
+### 🌐 Web Applications
+
+Several projects built with React, JavaScript, TypeScript, and Python to solve real-world problems and improve my software engineering skills.
+
+---
+
+# 📈 Current Focus
+
+- 📚 Mastering Java and Spring
+- 🧩 Solving LeetCode challenges
+- 🌱 Contributing to Open Source
+- 🚀 Building portfolio-quality projects
+
+---
+
+# 💬 Philosophy
+
+I believe software engineering is about much more than writing code.
+
+It's about understanding problems, designing elegant solutions, and continuously improving both the product and yourself as an engineer.
+
+Every project is an opportunity to learn, grow, and build something meaningful.
