@@ -1,10 +1,4 @@
 
-# Felipe Rodrigues Siqueira
-
-### Software Developer | Java • Spring • TypeScript • React • Python
-
-
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Felipe%20Siqueira&fontSize=54&fontColor=ffffff&fontAlignY=38&desc=Software%20Developer%20%E2%80%A2%20Java%20%E2%80%A2%20Spring%20%E2%80%A2%20TypeScript&descSize=20&descAlignY=60" alt="Felipe Siqueira banner" width="100%"/>
