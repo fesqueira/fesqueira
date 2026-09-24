@@ -1,20 +1,8 @@
-English version beggins at line 125
 
----
-
-# 👋 Olá, eu sou Felipe Rodrigues Siqueira
+# Felipe Rodrigues Siqueira
 
 ### Software Developer | Java • Spring • TypeScript • React • Python
 
-📍 Marília - SP, Brasil  
-📧 felipe.rodrigues.siqueira20@gmail.com
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/felipe-rodrigues-siqueira-00694a369)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/Fesqueira)
-
----
-
-# 💻 Sobre mim
 
 
 <div align="center">
