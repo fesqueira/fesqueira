@@ -11,12 +11,12 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/felipe-rodrigues-siqueira-00694a369)
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:felipe.rodrigues.siqueira20@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Fesqueira)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/fesqueira)
 ![Location](https://img.shields.io/badge/Marília-Brazil%20🇧🇷-009C3B?style=for-the-badge)
 
 🌐 **English** · [Português](README.pt-BR.md)
 
-![Profile views](https://komarev.com/ghpvc/?username=Fesqueira&label=Profile%20views&color=blueviolet&style=flat-square)
+![Profile views](https://komarev.com/ghpvc/?username=fesqueira&label=Profile%20views&color=blueviolet&style=flat-square)
 
 </div>
 
@@ -162,10 +162,10 @@ Java ─────► Spring Boot ─────► Spring Security ───
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Fesqueira&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fesqueira&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=fesqueira&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fesqueira&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
 
-<img src="https://streak-stats.demolab.com?user=Fesqueira&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+<img src="https://streak-stats.demolab.com?user=fesqueira&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 
 </div>
 
