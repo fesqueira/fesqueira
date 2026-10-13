@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 320" width="1200" height="320" font-family="'Space Grotesk', 'Inter', -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" role="img" aria-label="Felipe Siqueira, Software Developer, Simplifica Tech">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#1B1440"/><stop offset="1" stop-color="#2E2468"/></linearGradient>
+<radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#FF1F8F" stop-opacity="0.45"/><stop offset="1" stop-color="#FF1F8F" stop-opacity="0"/></radialGradient>
+<clipPath id="clip"><rect width="1200" height="320" rx="24"/></clipPath>
+</defs>
+<g clip-path="url(#clip)">
+<rect width="1200" height="320" fill="url(#bg)"/>
+<circle cx="1010" cy="110" r="300" fill="url(#glow)"/>
+<g fill="none" stroke="#ffffff" stroke-opacity="0.09">
+<circle cx="1010" cy="160" r="90"/><circle cx="1010" cy="160" r="150"/><circle cx="1010" cy="160" r="210"/>
+</g>
+<text x="1010" y="186" text-anchor="middle" font-size="76" font-weight="700" fill="#F3F1FA" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace">&lt;<tspan fill="#FF1F8F">/</tspan>&gt;</text>
+</g>
+<rect x="64" y="56" width="212" height="36" rx="18" fill="#ffffff" fill-opacity="0.07" stroke="#ffffff" stroke-opacity="0.12"/>
+<text x="170" y="80" text-anchor="middle" font-size="14" font-weight="700" letter-spacing="2.5" fill="#F3F1FA">SIMPLIFICA <tspan fill="#FF1F8F">TECH</tspan></text>
+<text x="64" y="172" font-size="68" font-weight="700" fill="#F3F1FA">Felipe Siqueira</text>
+<rect x="66" y="194" width="72" height="5" rx="2.5" fill="#FF1F8F"/>
+<text x="64" y="240" font-size="24" font-weight="600" fill="#F3F1FA">Software Developer</text>
+<text x="64" y="274" font-size="18" fill="#A79FCB">Java  ·  Spring Boot  ·  TypeScript  ·  React</text>
+</svg>

@@ -1,202 +1,58 @@
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Felipe%20Siqueira&fontSize=54&fontColor=ffffff&fontAlignY=38&desc=Software%20Developer%20%E2%80%A2%20Java%20%E2%80%A2%20Spring%20%E2%80%A2%20TypeScript&descSize=20&descAlignY=60" alt="Felipe Siqueira banner" width="100%"/>
+<img src="assets/en/banner.svg" alt="Felipe Siqueira, Software Developer at Simplifica Tech" width="100%"/>
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=1000&color=F7931E&center=true&vCenter=true&width=700&lines=Building+backends+with+Java+%26+Spring+Boot;Designing+clean%2C+scalable+REST+APIs;Fluent+in+English+%7C+Native+in+curiosity;Turning+coffee+into+code+since+2017+%E2%98%95" alt="Typing SVG" />
-</a>
+<a href="https://www.simplificatech.pro"><img src="https://img.shields.io/badge/Simplifica%20Tech-1B1440?style=for-the-badge&logo=googlechrome&logoColor=FF1F8F" alt="Simplifica Tech"/></a> <a href="https://linkedin.com/in/felipe-rodrigues-siqueira-00694a369"><img src="https://img.shields.io/badge/LinkedIn-1B1440?style=for-the-badge&logo=linkedin&logoColor=FF1F8F" alt="LinkedIn"/></a> <a href="mailto:felipe.rodrigues.siqueira20@gmail.com"><img src="https://img.shields.io/badge/Email-1B1440?style=for-the-badge&logo=gmail&logoColor=FF1F8F" alt="Email"/></a>
 
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/felipe-rodrigues-siqueira-00694a369)
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:felipe.rodrigues.siqueira20@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/fesqueira)
-![Location](https://img.shields.io/badge/Marília-Brazil%20🇧🇷-009C3B?style=for-the-badge)
-
-🌐 **English** · [Português](README.pt-BR.md)
-
-![Profile views](https://komarev.com/ghpvc/?username=fesqueira&label=Profile%20views&color=blueviolet&style=flat-square)
+**English** · [Português](README.pt-BR.md)
 
 </div>
 
----
+## About me
 
-## ⚡ `boot sequence`
+I'm a software developer from Marília, Brazil, and part of [Simplifica Tech](https://www.simplificatech.pro), a consultancy that builds custom software, automation and websites so businesses spend less time fighting their own technology.
 
-```text
-        ( (
-         ) )
-      ........          ┌──────────────────────────────────────────┐
-      |      |]         │  > whoami          Felipe R. Siqueira    │
-      \      /          │  > role            Software Developer    │
-       `----'           │  > main_stack      Java + Spring Boot    │
-                        │  > coding_since    2017                  │
-                        │  > languages       PT-BR (native)        │
-                        │                    EN (fluent)           │
-                        │  > status          ▓▓▓▓▓▓▓▓░░ learning   │
-                        │  > open_to         Opportunities 🚀      │
-                        └──────────────────────────────────────────┘
-```
+I've been coding since 2017. My focus is backend development with **Java and Spring Boot**: REST APIs, databases and code that is easy to test and maintain. I also build front ends with **React and TypeScript**, and I've done volunteer work implementing a payment feature in TypeScript for a non-profit organisation.
 
----
+I speak Portuguese natively and English fluently.
 
-## 👨‍💻 About me
+## Tech stack
 
-```java
-public class FelipeSiqueira implements SoftwareEngineer {
+| | |
+| :--- | :--- |
+| **Backend** | <img src="https://img.shields.io/badge/Java-1B1440?style=for-the-badge&logo=openjdk&logoColor=FF1F8F" alt="Java"/> <img src="https://img.shields.io/badge/Spring%20Boot-1B1440?style=for-the-badge&logo=springboot&logoColor=FF1F8F" alt="Spring Boot"/> <img src="https://img.shields.io/badge/Spring%20Security-1B1440?style=for-the-badge&logo=springsecurity&logoColor=FF1F8F" alt="Spring Security"/> <img src="https://img.shields.io/badge/Python-1B1440?style=for-the-badge&logo=python&logoColor=FF1F8F" alt="Python"/> |
+| **Frontend** | <img src="https://img.shields.io/badge/React-1B1440?style=for-the-badge&logo=react&logoColor=FF1F8F" alt="React"/> <img src="https://img.shields.io/badge/TypeScript-1B1440?style=for-the-badge&logo=typescript&logoColor=FF1F8F" alt="TypeScript"/> <img src="https://img.shields.io/badge/JavaScript-1B1440?style=for-the-badge&logo=javascript&logoColor=FF1F8F" alt="JavaScript"/> <img src="https://img.shields.io/badge/HTML-1B1440?style=for-the-badge&logo=html5&logoColor=FF1F8F" alt="HTML"/> <img src="https://img.shields.io/badge/CSS-1B1440?style=for-the-badge&logo=css&logoColor=FF1F8F" alt="CSS"/> |
+| **Databases** | <img src="https://img.shields.io/badge/PostgreSQL-1B1440?style=for-the-badge&logo=postgresql&logoColor=FF1F8F" alt="PostgreSQL"/> <img src="https://img.shields.io/badge/MySQL-1B1440?style=for-the-badge&logo=mysql&logoColor=FF1F8F" alt="MySQL"/> <img src="https://img.shields.io/badge/SQLite-1B1440?style=for-the-badge&logo=sqlite&logoColor=FF1F8F" alt="SQLite"/> |
+| **Tools** | <img src="https://img.shields.io/badge/Git-1B1440?style=for-the-badge&logo=git&logoColor=FF1F8F" alt="Git"/> <img src="https://img.shields.io/badge/Docker-1B1440?style=for-the-badge&logo=docker&logoColor=FF1F8F" alt="Docker"/> <img src="https://img.shields.io/badge/Maven-1B1440?style=for-the-badge&logo=apachemaven&logoColor=FF1F8F" alt="Maven"/> <img src="https://img.shields.io/badge/JUnit-1B1440?style=for-the-badge&logo=junit5&logoColor=FF1F8F" alt="JUnit"/> <img src="https://img.shields.io/badge/Vite-1B1440?style=for-the-badge&logo=vite&logoColor=FF1F8F" alt="Vite"/> |
 
-    private final String location  = "Marília, Brazil 🇧🇷";
-    private final int    codingSince = 2017;
-    private final List<String> languages = List.of("Java", "TypeScript", "Python", "English (fluent)");
+## Featured projects
 
-    private String focus = "Backend • REST APIs • Software Architecture • Databases";
+<p>
+  <a href="https://github.com/fesqueira/money-controll"><img src="assets/en/money-controll.svg" alt="money-controll" width="49%"/></a>
+  <a href="https://github.com/fesqueira/almoxarifado"><img src="assets/en/almoxarifado.svg" alt="almoxarifado" width="49%"/></a>
+</p>
+<p>
+  <a href="https://github.com/fesqueira/site-sonhoverde"><img src="assets/en/site-sonhoverde.svg" alt="site-sonhoverde" width="49%"/></a>
+  <a href="https://github.com/fesqueira/devlevelup"><img src="assets/en/devlevelup.svg" alt="devlevelup" width="49%"/></a>
+</p>
 
-    public String mission() {
-        return "Build scalable products that create real value.";
-    }
+More on my [repositories page](https://github.com/fesqueira?tab=repositories).
 
-    public static void main(String[] args) {
-        while (alive()) {
-            learn();
-            build();
-            ship();
-            improve();   // every project is a chance to be better than yesterday
-        }
-    }
-}
-```
+## Currently learning
 
-My journey began in **2017** with a degree in **Systems Analysis and Development**. Since then, programming stopped being just a subject and became my biggest passion: I've explored several languages, built personal projects, contributed to volunteer initiatives, and kept sharpening my engineering skills.
+- **Architecture**: microservices and clean architecture
+- **Quality**: automated testing and design patterns
+- **Data**: going deeper into JPA and Hibernate
 
-Today I'm focused on the **Java ecosystem**: backend development, software architecture, REST APIs, databases, and engineering best practices. Being **fluent in English** lets me learn straight from official docs, books, conferences, and international communities every single day.
+## Education
 
----
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-**☕ Backend**<br/>
-<img src="https://skillicons.dev/icons?i=java,spring,python,nodejs" alt="Backend stack" />
-
-**🎨 Frontend**<br/>
-<img src="https://skillicons.dev/icons?i=react,ts,js,html,css" alt="Frontend stack" />
-
-**🗄️ Databases**<br/>
-<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite" alt="Databases" />
-
-**🧰 Tools**<br/>
-<img src="https://skillicons.dev/icons?i=git,github,docker,maven,idea,vscode" alt="Tools" />
-
-</div>
-
----
-
-## 🌱 Currently leveling up
-
-| 🔐 Security & Data | 🏗️ Architecture | 🧪 Quality |
+| Period | Course | Status |
 | :--- | :--- | :--- |
-| Spring Security | Microservices | Automated Testing |
-| JPA / Hibernate | Clean Architecture | Design Patterns |
-| | Docker | |
+| 2026 – 2030 | Software Engineering | In progress |
+| 2017 – 2020 | Systems Analysis and Development | Completed |
 
-```text
-Java ─────► Spring Boot ─────► Spring Security ─────► Microservices ─────► 🚀
-  ✔ base        ✔ APIs            ⏳ learning             ⏳ learning
-```
+## Contact
 
----
+Open to opportunities and to new projects through Simplifica Tech.
 
-## 📦 Featured Projects
-
-<table>
-  <tr>
-    <td width="33%" valign="top">
-      <h3>📦 Digital Inventory</h3>
-      <sub><b>Almoxarifado Digital</b></sub><br/><br/>
-      Java desktop app for inventory control, built with <b>layered architecture</b> and database persistence.<br/><br/>
-      <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java"/>
-    </td>
-    <td width="33%" valign="top">
-      <h3>💳 Non-profit Payments</h3>
-      <sub><b>Volunteer work</b></sub><br/><br/>
-      Payment feature implemented in <b>TypeScript</b> for a non-profit organization, code with real social impact.<br/><br/>
-      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
-    </td>
-    <td width="33%" valign="top">
-      <h3>🌐 Web Applications</h3>
-      <sub><b>Real-world problems</b></sub><br/><br/>
-      Multiple projects with <b>React, JavaScript, TypeScript and Python</b> to solve real problems and grow as an engineer.<br/><br/>
-      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React"/>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
-    </td>
-  </tr>
-</table>
-
----
-
-## 🎓 Education
-
-```text
-  2017 ●━━━━━━━━━━━━━━● 2020          2026 ●━━━━━━━━━━━━━━● 2030
-       Systems Analysis &                   Software
-       Development                          Engineering
-       (Completed ✔)                        (In progress ⏳)
-```
-
-📚 Plus continuous learning through official documentation, personal projects, online courses, and open-source contributions.
-
----
-
-## 🎯 Current Focus
-
-- 📚 Mastering **Java** and **Spring**
-- 🧩 Solving **LeetCode** challenges
-- 🌱 Contributing to **Open Source**
-- 🚀 Building **portfolio-quality** projects
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=fesqueira&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fesqueira&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
-
-<img src="https://streak-stats.demolab.com?user=fesqueira&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-
-</div>
-
----
-
-## 💬 Philosophy
-
-<div align="center">
-
-> *"Software is much more than code."*
->
-> It's about understanding problems, designing elegant solutions,
-> and continuously improving both the product and yourself.
-> Every project is a chance to learn, grow, and build something meaningful.
-
-</div>
-
----
-
-## 🤝 Let's connect
-
-Looking for a developer who is **passionate about backend, obsessed with learning, and ready to ship**? Let's talk!
-
-📧 [felipe.rodrigues.siqueira20@gmail.com](mailto:felipe.rodrigues.siqueira20@gmail.com) · 💼 [LinkedIn](https://linkedin.com/in/felipe-rodrigues-siqueira-00694a369)
-
-<div align="center">
-
-```text
-   while (true) { learn(); build(); improve(); }   ☕
-```
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" alt="footer" width="100%"/>
-
-</div>
+<a href="https://www.simplificatech.pro"><img src="https://img.shields.io/badge/Simplifica%20Tech-1B1440?style=for-the-badge&logo=googlechrome&logoColor=FF1F8F" alt="Simplifica Tech"/></a> <a href="https://linkedin.com/in/felipe-rodrigues-siqueira-00694a369"><img src="https://img.shields.io/badge/LinkedIn-1B1440?style=for-the-badge&logo=linkedin&logoColor=FF1F8F" alt="LinkedIn"/></a> <a href="mailto:felipe.rodrigues.siqueira20@gmail.com"><img src="https://img.shields.io/badge/Email-1B1440?style=for-the-badge&logo=gmail&logoColor=FF1F8F" alt="Email"/></a>
