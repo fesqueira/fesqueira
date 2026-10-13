@@ -46,10 +46,9 @@ Veja mais na minha [página de repositórios](https://github.com/fesqueira?tab=r
 
 ## Formação
 
-| Período | Curso | Situação |
+| Curso | Situação | Previsão de formatura |
 | :--- | :--- | :--- |
-| 2026 – 2030 | Engenharia de Software | Em andamento |
-| 2017 – 2020 | Análise e Desenvolvimento de Sistemas | Concluído |
+| Análise e Desenvolvimento de Sistemas | 3º semestre, em andamento | 2027 |
 
 ## Contato
 

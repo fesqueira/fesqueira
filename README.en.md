@@ -46,10 +46,9 @@ More on my [repositories page](https://github.com/fesqueira?tab=repositories).
 
 ## Education
 
-| Period | Course | Status |
+| Course | Status | Expected graduation |
 | :--- | :--- | :--- |
-| 2026 – 2030 | Software Engineering | In progress |
-| 2017 – 2020 | Systems Analysis and Development | Completed |
+| Systems Analysis and Development | 3rd semester, in progress | 2027 |
 
 ## Contact
 
